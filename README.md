@@ -22,7 +22,7 @@ Apps included so far:
 
 ---
 
-Apps:                                           https://github.com/Uthopik/Open-Source-Games/releases/tag/v1.0
+Apps:                                           https://github.com/Uthopik/Open-Source-Apps/releases
 
 ---
 <img src="img/game2.jpeg" alt="Descripción" width="100%">
