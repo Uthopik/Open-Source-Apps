@@ -19,3 +19,14 @@ Apps included so far:
 * Simple-Scan-x86_64.AppImage                  (https://gitlab.gnome.org/GNOME/simple-scan)
 * Upscaler-x86_64.AppImage                     (https://gitlab.gnome.org/World/Upscaler)
 * Webcamoid-9.3.0-3-anylinux-x86_64.AppImage   (https://github.com/webcamoid/webcamoid)
+
+---
+
+Apps:                                           https://github.com/Uthopik/Open-Source-Games/releases/tag/v1.0
+
+---
+<img src="img/game2.jpeg" alt="Descripción" width="100%">
+
+I have another repository dedicated to open source games. You can view it **[here.](https://github.com/Uthopik/Open-Source-Games)**
+
+email: josearrillaga@ik.me
