@@ -1,3 +1,5 @@
+<img src="img/opensourceapps.jpeg" alt="Descripción" width="100%">
+
 # Open-Source-Apps
 Gnome apps and other open source software that I find interesting or useful, in AppImage format.
 
@@ -25,7 +27,7 @@ Apps included so far:
 Apps:                                           https://github.com/Uthopik/Open-Source-Apps/releases
 
 ---
-<img src="img/game2.jpeg" alt="Descripción" width="100%">
+<img src="img/opensourceapps2.jpeg" alt="Descripción" width="100%">
 
 I have another repository dedicated to open source games. You can view it **[here.](https://github.com/Uthopik/Open-Source-Games)**
 
