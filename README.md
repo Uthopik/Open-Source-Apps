@@ -23,6 +23,7 @@ Apps included so far:
 * **Simple-Scan-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Simple-Scan-x86_64.AppImage)**                  [Official website](https://gitlab.gnome.org/GNOME/simple-scan)
 * **Upscaler-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Upscaler-x86_64.AppImage)**                     [Official website](https://gitlab.gnome.org/World/Upscaler)
 * **Webcamoid-9.3.0-3-anylinux-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Webcamoid-9.3.0-3-anylinux-x86_64.AppImage)**   [Official website](https://github.com/webcamoid/webcamoid)
+* **XSane-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/XSane-x86_64.AppImage)**           [Official website](https://gitlab.com/sane-project/frontend/xsane)
 
 ---
 
