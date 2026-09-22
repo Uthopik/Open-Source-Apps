@@ -8,7 +8,8 @@
 Apps included so far:
 
 * **Blanket-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Blanket-x86_64.AppImage)**                      [Official website](https://github.com/rafaelmardojai/blanket)
-* **Calculator-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Calculator-x86_64.AppImage)**                   [Official website](https://gitlab.gnome.org/GNOME/gnome-calculator)
+* **Calculator-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Calculator-x86_64.AppImage)**           [Official website](https://gitlab.gnome.org/GNOME/gnome-calculator)
+* **Cameractrls-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Cameractrls-x86_64.AppImage)**           [Official website](https://github.com/soyersoyer/cameractrls)
 * **Characters-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Characters-x86_64.AppImage)**                   [Official website](https://gitlab.gnome.org/GNOME/gnome-characters)
 * **Clocks-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Clocks-x86_64.AppImage)**                       [Official website](https://gitlab.gnome.org/GNOME/gnome-clocks)
 * **Evince-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Evince-x86_64.AppImage)**                       [Official website](https://gitlab.gnome.org/GNOME/evince)
