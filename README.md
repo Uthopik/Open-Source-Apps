@@ -12,6 +12,7 @@ Apps included so far:
 * **Cameractrls-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Cameractrls-x86_64.AppImage)**           [Official website](https://github.com/soyersoyer/cameractrls)
 * **Characters-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Characters-x86_64.AppImage)**                   [Official website](https://gitlab.gnome.org/GNOME/gnome-characters)
 * **Clocks-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Clocks-x86_64.AppImage)**                       [Official website](https://gitlab.gnome.org/GNOME/gnome-clocks)
+* **CoMaps-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/CoMaps-x86_64.AppImage)**                       [Official website](https://codeberg.org/comaps/comaps)
 * **Evince-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Evince-x86_64.AppImage)**                       [Official website](https://gitlab.gnome.org/GNOME/evince)
 * **Fonts-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Fonts-x86_64.AppImage)**                        [Official website](https://gitlab.gnome.org/GNOME/gnome-font-viewer)
 * **GtkHash-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/GtkHash-x86_64.AppImage)**                      [Official website](https://github.com/gtkhash/gtkhash)
