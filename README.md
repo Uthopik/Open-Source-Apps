@@ -20,6 +20,7 @@ Apps included so far:
 * **Logs-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Logs-x86_64.AppImage)**                         [Official website](https://gitlab.gnome.org/GNOME/gnome-logs)
 * **Maps-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Maps-x86_64.AppImage)**                         [Official website](https://gitlab.gnome.org/GNOME/gnome-maps)
 * **PosteRazor-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/PosteRazor-x86_64.AppImage)**                 [Official website](https://posterazor.sourceforge.io)
+* **QPhotoRec-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/QPhotoRec-x86_64.AppImage)**                 [Official website](https://photorec.net/)
 * **QR_Decoder-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/QR_Decoder-x86_64.AppImage)**                   [Official website](https://gitlab.gnome.org/World/decoder)
 * **Shortwave-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Shortwave-x86_64.AppImage)**                    [Official website](https://gitlab.gnome.org/World/Shortwave)
 * **Simple-Scan-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Simple-Scan-x86_64.AppImage)**                  [Official website](https://gitlab.gnome.org/GNOME/simple-scan)
