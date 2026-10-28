@@ -18,6 +18,7 @@ Apps included so far:
 * **GtkHash-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/GtkHash-x86_64.AppImage)**                      [Official website](https://github.com/gtkhash/gtkhash)
 * **Kolourpaint-x86_64.AppImage** **[Download](https://github.com/Uthopik/kolourpaint-appimage/releases/download/v19.12.3/kolourpaint-19.12.3-x86_64.AppImage)**        [Official website](https://github.com/KDE/kolourpaint)
 * **Logs-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Logs-x86_64.AppImage)**                         [Official website](https://gitlab.gnome.org/GNOME/gnome-logs)
+* **Logs-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Lumiere-x86_64.AppImage)**                         [Official website](https://gitlab.com/AnddyCort/lumiere)
 * **Maps-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Maps-x86_64.AppImage)**                         [Official website](https://gitlab.gnome.org/GNOME/gnome-maps)
 * **PosteRazor-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/PosteRazor-x86_64.AppImage)**                 [Official website](https://posterazor.sourceforge.io)
 * **QPhotoRec-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/QPhotoRec-x86_64.AppImage)**                 [Official website](https://photorec.net/)
