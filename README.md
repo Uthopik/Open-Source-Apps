@@ -23,6 +23,7 @@ Apps included so far:
 * **PosteRazor-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/PosteRazor-x86_64.AppImage)**                 [Official website](https://posterazor.sourceforge.io)
 * **QPhotoRec-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/QPhotoRec-x86_64.AppImage)**                 [Official website](https://photorec.net/)
 * **QR_Decoder-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/QR_Decoder-x86_64.AppImage)**                   [Official website](https://gitlab.gnome.org/World/decoder)
+* **ScidvsPc-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/ScidvsPc-x86_64.AppImage)**                   [Official website](https://scidvspc.sourceforge.net/)
 * **Shortwave-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Shortwave-x86_64.AppImage)**                    [Official website](https://gitlab.gnome.org/World/Shortwave)
 * **Simple-Scan-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Simple-Scan-x86_64.AppImage)**                  [Official website](https://gitlab.gnome.org/GNOME/simple-scan)
 * **Upscaler-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Upscaler-x86_64.AppImage)**                     [Official website](https://gitlab.gnome.org/World/Upscaler)
