@@ -14,6 +14,7 @@ Apps included so far:
 * **Clocks-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Clocks-x86_64.AppImage)**                       [Official website](https://gitlab.gnome.org/GNOME/gnome-clocks)
 * **CoMaps-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/CoMaps-x86_64.AppImage)**                       [Official website](https://codeberg.org/comaps/comaps)
 * **Evince-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Evince-x86_64.AppImage)**                       [Official website](https://gitlab.gnome.org/GNOME/evince)
+* **Filee-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Filee-x86_64.AppImage)**                       [Official website](https://github.com/KnifeLemon/Filee)
 * **Fonts-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/Fonts-x86_64.AppImage)**                        [Official website](https://gitlab.gnome.org/GNOME/gnome-font-viewer)
 * **GtkHash-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Apps/releases/download/v1.0/GtkHash-x86_64.AppImage)**                      [Official website](https://github.com/gtkhash/gtkhash)
 * **Kolourpaint-x86_64.AppImage** **[Download](https://github.com/Uthopik/kolourpaint-appimage/releases/download/v19.12.3/kolourpaint-19.12.3-x86_64.AppImage)**        [Official website](https://github.com/KDE/kolourpaint)
